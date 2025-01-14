@@ -1,3 +1,5 @@
+![]([https://github.com/anmolg84/anmolg84/blob/main/1690445497305.jpeg](https://github.com/anmolg84/Ecommerce-Microservices-Application/blob/main/Architecture%20Diagram%20Ecommerce%20Application.png))
+
 Ecommerce Application | Spring-Boot, Microservices, Docker, Rest-APIs, Kafka, MySQL, Redis
 1. Developed scalable Ecommerce platform using micro-services architecture & configured API Gateway for
 routing, authentication & load balancing.
